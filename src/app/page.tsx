@@ -1,3 +1,8 @@
 export default function Page() {
-  return <p>Hello, world!</p>;
+  return (
+    <main>
+      <h1>Nikita Korevo</h1>
+      <p>Frontend Developer</p>
+    </main>
+  );
 }
